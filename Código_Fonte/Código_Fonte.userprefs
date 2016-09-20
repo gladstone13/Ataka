@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CodigoFonte/Interface/Hierarchy/EnemiesShips/EnemiesBlack01/EnemiesBlack01.cs">
+    <Files>
+      <File FileName="Assets/CodigoFonte/Entidade/EntidadeEnemyBlack01.cs" Line="50" Column="2" />
+      <File FileName="Assets/CodigoFonte/AcaoObjeto/EnemySpawner.cs" Line="13" Column="32" />
+      <File FileName="Assets/CodigoFonte/Interface/Hierarchy/EnemiesShips/EnemiesBlack01/EnemiesBlack01.cs" Line="30" Column="113" />
+      <File FileName="Assets/CodigoFonte/Interface/Hierarchy/PlayerOneShips/PlayerOneShips.cs" Line="27" Column="150" />
+      <File FileName="Assets/CodigoFonte/AcaoObjeto/PlayerOneSpawner.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
